@@ -1,0 +1,32 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/yous/YousList
+! License: https://github.com/yous/YousList#license
+! Title: YousList
+! Expires: 999 days
+! Version: 20210930
+
+! General element hiding rules
+##div.row.row-15
+##div#id_mbv
+##div#evfhnqucdjtsmoplrigk
+
+
+! ##span.ezoic-ad
+
+
+! ~010bts.com##a[href*="//010bts.com"]
+
+
+! Workaround for BlockAdBlock
+! #@#.pub_300x250
+! #@#.pub_300x250m
+! #@#.pub_728x90
+! #@#.text-ad
+! #@#.text-ad-links
+! #@#.text-ads
+! #@#.textAd
+! #@#.text_ad
+! #@#.text_ads
+
+! Exceptions
+! @@||ad.cgv.co.kr/NetInsight/$domain=cgv.co.kr
