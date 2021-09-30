@@ -9,6 +9,7 @@
 ##div.row.row-15
 ##div#id_mbv
 ##div#evfhnqucdjtsmoplrigk
+##div.basic-banner.row.row-10
 
 
 ! ##span.ezoic-ad
