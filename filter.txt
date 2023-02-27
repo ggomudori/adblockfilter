@@ -11,6 +11,7 @@
 ##div#evfhnqucdjtsmoplrigk
 ##div.basic-banner.row.row-10
 ##div.partner-br-wrap
+##div.partner-banner-flex
 
 ! ##span.ezoic-ad
 
